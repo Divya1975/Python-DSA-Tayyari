@@ -81,9 +81,6 @@ print("Dictionary:", student)
 # Boolean
 is_valid = True
 print("Boolean:", is_valid)
-
-# Type Casting
-a = int("5")
-b = float("4.5")
-c = str(100)
-print("After casting:", a, b, c)
+### 🔸 Type Checking:
+```python
+type(5)   # <class 'int'>
