@@ -33,4 +33,36 @@ Once I complete that, I'll start adding core DSA topics with problems & solution
 - Dynamic Programming (DP)
 
 Stay tuned for more updates! 🚧
+---
+
+📁 **Folder Structure**
+
+Each folder in this repo follows a simple structure:
+
+📂 07_lists
+├── notes.md # Short concept notes
+├── lists.py # Topic-wise example code
+└── lists_practice.py # Practice problems
+
+📂 10_Dictionaries
+├── notes.md
+├── dictionaries.py
+└── dictionaries_practice.py
+
+📂 13_Functions
+├── notes.md
+├── functions.py
+└── functions_practice.py
+
+📂 14_Recursion
+├── notes.md
+├── recursion.py
+└── recursion_practice.py
+
+... and so on for each topic.
+
+➡️ You can explore any topic folder to find:
+- `notes.md` → My notes with key points
+- `xyz.py` → Concept explanations
+- `xyz_practice.py` → Coding practice problems
 
