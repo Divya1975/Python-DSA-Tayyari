@@ -24,8 +24,8 @@ class TaskManager:
 
 # Test code
 if __name__ == "__main__":
-    print("🔹 K Smallest Elements:", k_smallest_elements([5, 1, 8, 3, 2], 3))
-    print("🔸 K Largest Elements:", k_largest_elements([5, 1, 8, 3, 2], 2))
+    print(" K Smallest Elements:", k_smallest_elements([5, 1, 8, 3, 2], 3))
+    print(" K Largest Elements:", k_largest_elements([5, 1, 8, 3, 2], 2))
 
     tm = TaskManager()
     tm.add_task(3, "Write blog")
